@@ -1,2 +1,2 @@
 #readme.txt file.
-Updat
+Update
